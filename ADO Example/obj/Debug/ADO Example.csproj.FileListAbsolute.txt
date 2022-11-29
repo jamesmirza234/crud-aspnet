@@ -1,0 +1,75 @@
+D:\Tes\ADO Example\ADO Example\bin\ADO Example.dll.config
+D:\Tes\ADO Example\ADO Example\bin\ADO Example.dll
+D:\Tes\ADO Example\ADO Example\bin\ADO Example.pdb
+D:\Tes\ADO Example\ADO Example\bin\roslyn\csc.exe
+D:\Tes\ADO Example\ADO Example\bin\roslyn\csc.exe.config
+D:\Tes\ADO Example\ADO Example\bin\roslyn\csc.rsp
+D:\Tes\ADO Example\ADO Example\bin\roslyn\csi.exe
+D:\Tes\ADO Example\ADO Example\bin\roslyn\csi.exe.config
+D:\Tes\ADO Example\ADO Example\bin\roslyn\csi.rsp
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tes\ADO Example\ADO Example\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.AppContext.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Collections.Immutable.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Console.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.IO.Compression.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.IO.FileSystem.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.IO.Pipes.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Security.AccessControl.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Security.Claims.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.ValueTuple.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Xml.XPath.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tes\ADO Example\ADO Example\bin\roslyn\vbc.exe
+D:\Tes\ADO Example\ADO Example\bin\roslyn\vbc.exe.config
+D:\Tes\ADO Example\ADO Example\bin\roslyn\vbc.rsp
+D:\Tes\ADO Example\ADO Example\bin\roslyn\VBCSCompiler.exe
+D:\Tes\ADO Example\ADO Example\bin\roslyn\VBCSCompiler.exe.config
+D:\Tes\ADO Example\ADO Example\bin\Antlr3.Runtime.dll
+D:\Tes\ADO Example\ADO Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tes\ADO Example\ADO Example\bin\Microsoft.Web.Infrastructure.dll
+D:\Tes\ADO Example\ADO Example\bin\Newtonsoft.Json.dll
+D:\Tes\ADO Example\ADO Example\bin\System.Web.Helpers.dll
+D:\Tes\ADO Example\ADO Example\bin\System.Web.Mvc.dll
+D:\Tes\ADO Example\ADO Example\bin\System.Web.Optimization.dll
+D:\Tes\ADO Example\ADO Example\bin\System.Web.Razor.dll
+D:\Tes\ADO Example\ADO Example\bin\System.Web.WebPages.Deployment.dll
+D:\Tes\ADO Example\ADO Example\bin\System.Web.WebPages.dll
+D:\Tes\ADO Example\ADO Example\bin\System.Web.WebPages.Razor.dll
+D:\Tes\ADO Example\ADO Example\bin\WebGrease.dll
+D:\Tes\ADO Example\ADO Example\bin\System.Web.Helpers.xml
+D:\Tes\ADO Example\ADO Example\bin\System.Web.Mvc.xml
+D:\Tes\ADO Example\ADO Example\bin\System.Web.Optimization.xml
+D:\Tes\ADO Example\ADO Example\bin\System.Web.Razor.xml
+D:\Tes\ADO Example\ADO Example\bin\System.Web.WebPages.xml
+D:\Tes\ADO Example\ADO Example\bin\System.Web.WebPages.Deployment.xml
+D:\Tes\ADO Example\ADO Example\bin\System.Web.WebPages.Razor.xml
+D:\Tes\ADO Example\ADO Example\bin\Newtonsoft.Json.xml
+D:\Tes\ADO Example\ADO Example\bin\Antlr3.Runtime.pdb
+D:\Tes\ADO Example\ADO Example\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tes\ADO Example\ADO Example\obj\Debug\ADO Example.csproj.CoreCompileInputs.cache
+D:\Tes\ADO Example\ADO Example\obj\Debug\ADO Example.csproj.CopyComplete
+D:\Tes\ADO Example\ADO Example\obj\Debug\ADO Example.dll
+D:\Tes\ADO Example\ADO Example\obj\Debug\ADO Example.pdb
